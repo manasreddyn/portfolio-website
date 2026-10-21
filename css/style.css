@@ -395,7 +395,7 @@ p, li, blockquote, .text-pretty {
 .hero-section {
   position: relative;
   padding-top: var(--space-xxl);
-  padding-bottom: var(--space-section);
+  padding-bottom: clamp(40px, 6vw, 64px);
   overflow: hidden;
 }
 
@@ -472,7 +472,7 @@ p, li, blockquote, .text-pretty {
   align-items: center;
   flex-wrap: wrap;
   gap: var(--space-md);
-  margin-bottom: var(--space-xxl);
+  margin-bottom: 0;
 }
 
 /* Telemetry & Spec Bar (Raycast command-palette feel) */
