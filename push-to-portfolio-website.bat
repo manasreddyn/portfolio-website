@@ -25,7 +25,7 @@ echo [2/4] Staging all files...
 git add .
 
 echo [3/4] Committing changes...
-git commit -m "feat: complete personal engineering portfolio implementation"
+git commit -m "update: refine headings, tab title, and footer"
 
 echo [4/4] Setting remote and pushing to main branch...
 git remote remove origin >nul 2>nul
@@ -42,11 +42,6 @@ if %ERRORLEVEL% equ 0 (
     echo [SUCCESS] Code successfully pushed to:
     echo https://github.com/manasreddyn/portfolio-website
     echo ========================================================
-    echo.
-    echo Next step for Vercel:
-    echo 1. Go to https://vercel.com/new
-    echo 2. Click 'Import' on manasreddyn/portfolio-website
-    echo 3. Click 'Deploy'!
 ) else (
     echo.
     echo [!] If the push failed with authentication or branch conflicts:
