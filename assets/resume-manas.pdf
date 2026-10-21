@@ -1,0 +1,210 @@
+%PDF-1.4
+1 0 obj
+<<
+  /Type /Catalog
+  /Pages 2 0 R
+>>
+endobj
+2 0 obj
+<<
+  /Type /Pages
+  /Kids [3 0 R]
+  /Count 1
+>>
+endobj
+3 0 obj
+<<
+  /Type /Page
+  /Parent 2 0 R
+  /MediaBox [0 0 595.28 841.89]
+  /Contents 4 0 R
+  /Resources <<
+    /Font <<
+      /F1 5 0 R
+      /F2 6 0 R
+    >>
+  >>
+>>
+endobj
+5 0 obj
+<<
+  /Type /Font
+  /Subtype /Type1
+  /BaseFont /Helvetica
+>>
+endobj
+6 0 obj
+<<
+  /Type /Font
+  /Subtype /Type1
+  /BaseFont /Helvetica-Bold
+>>
+endobj
+4 0 obj
+<<
+  /Length 2850
+>>
+stream
+BT
+/F2 18 Tf
+50 790 Td
+(Venkata Sai Manas Reddy Naguru) Tj
+ET
+BT
+/F1 10 Tf
+50 772 Td
+(Email: manasreddynaguru@outlook.com | LinkedIn: linkedin.com/in/manasreddyn | Phone: +91 6360785430) Tj
+ET
+BT
+/F2 11 Tf
+50 745 Td
+(PROFESSIONAL SUMMARY) Tj
+ET
+BT
+/F1 9.5 Tf
+50 730 Td
+(Aspiring Electrical and Electronics Engineer with a strong interest in Electric Vehicles, Powertrain) Tj
+0 -13 Td
+(Engineering, Power Systems, and Embedded Systems. Hands-on experience in microcontroller-based) Tj
+0 -13 Td
+(systems and sensor integration. Proficient in Python, C, and Embedded C, with exposure to MATLAB.) Tj
+0 -13 Td
+(Keen to apply core EEE knowledge and embedded firmware skills to real-world applications.) Tj
+ET
+BT
+/F2 11 Tf
+50 660 Td
+(EDUCATION) Tj
+ET
+BT
+/F2 10 Tf
+50 644 Td
+(Nitte Meenakshi Institute of Technology, Bengaluru) Tj
+ET
+BT
+/F1 9.5 Tf
+420 644 Td
+(2024 - 2028) Tj
+ET
+BT
+/F1 9.5 Tf
+50 630 Td
+(Bachelor of Engineering in Electrical and Electronics Engineering (CGPA: 8.33 / 10.0)) Tj
+ET
+BT
+/F2 10 Tf
+50 610 Td
+(New Baldwin Independent PU College, Bengaluru) Tj
+ET
+BT
+/F1 9.5 Tf
+420 610 Td
+(2023 - 2024) Tj
+ET
+BT
+/F1 9.5 Tf
+50 596 Td
+(2nd PUC - 80.1%) Tj
+ET
+BT
+/F2 11 Tf
+50 568 Td
+(PROJECTS) Tj
+ET
+BT
+/F2 10 Tf
+50 552 Td
+(Predictive and Adaptive Synthetic Inertia Control (PASIC) for Renewable Power Systems) Tj
+ET
+BT
+/F1 9 Tf
+50 538 Td
+(Technologies: Python, MATLAB/Simulink, TimeGAN | Timeline: Feb 2026 - May 2026) Tj
+0 -13 Td
+(- Developed a TimeGAN-based generative AI engine to predict synthetic inertia control strategies for renewable grids.) Tj
+0 -13 Td
+(- Architected a five-stage Sense -> Predict -> Compare -> Decide -> Actuate -> Log control pipeline.) Tj
+0 -13 Td
+(- Integrated real-time frequency prediction with adaptive grid stabilization logic to suppress RoCoF excursions.) Tj
+ET
+BT
+/F2 10 Tf
+50 480 Td
+(Smart Motor Health Monitoring and Predictive Maintenance System) Tj
+ET
+BT
+/F1 9 Tf
+50 466 Td
+(Technologies: ESP32-S3, ACS712, MPU6050, LM35, I2C LCD, Hall Effect Sensor | Timeline: Mar 2026 - Apr 2026) Tj
+0 -13 Td
+(- Designed an embedded system on ESP32-S3 to monitor industrial motor health in real-time.) Tj
+0 -13 Td
+(- Implemented a three-tier health scoring algorithm to classify motor condition and trigger protective action.) Tj
+0 -13 Td
+(- Integrated ACS712 current, LM35 temperature, MPU6050 vibration, and Hall Effect RPM sensors via I2C LCD.) Tj
+ET
+BT
+/F2 11 Tf
+50 405 Td
+(RESEARCH AND ACHIEVEMENTS) Tj
+ET
+BT
+/F1 9.5 Tf
+50 389 Td
+(- Authored the research paper "Predictive and Adaptive Synthetic Inertia Control for Renewable-Dominated) Tj
+0 -13 Td
+(  Power Systems Using Generative AI", reaching the final submission stage of the IRAI Conference 2026.) Tj
+ET
+BT
+/F2 11 Tf
+50 345 Td
+(TECHNICAL SKILLS) Tj
+ET
+BT
+/F1 9.5 Tf
+50 329 Td
+(Languages: Python, C, MATLAB, Embedded C) Tj
+0 -14 Td
+(Embedded & Hardware: ESP32, ESP32-S3, Arduino, Raspberry Pi, Sensor Fusion (Current, Temp, Vibration)) Tj
+0 -14 Td
+(Engineering Tools: MATLAB/Simulink, Keil uVision, Code Composer Studio, PlatformIO, KiCad, Git/GitHub) Tj
+0 -14 Td
+(Domains: Embedded Systems, Industrial Automation, IoT, EV Powertrain, Power Systems & Grid Stability) Tj
+ET
+BT
+/F2 11 Tf
+50 255 Td
+(CERTIFICATIONS) Tj
+ET
+BT
+/F1 9.5 Tf
+50 239 Td
+(- Introduction to Cybersecurity -- Cisco Networking Academy (Dec 2024)) Tj
+0 -13 Td
+(- Getting Started with Artificial Intelligence -- IBM (Sep 2024)) Tj
+0 -13 Td
+(- AI/ML for Geodata Analysis -- IIRS, ISRO (Sep 2024)) Tj
+0 -13 Td
+(- Enterprise Design Thinking Co-Creator and Practitioner -- IBM (Jun 2024)) Tj
+0 -13 Td
+(- Samsung Innovation Campus Certification (Coding and Programming) -- March 2025 to Present) Tj
+ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000366 00000 n 
+0000000257 00000 n 
+0000000311 00000 n 
+trailer
+<<
+  /Size 7
+  /Root 1 0 R
+>>
+startxref
+3270
+%%EOF

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://manasreddyn.github.io/sitemap.xml

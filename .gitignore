@@ -1,0 +1,9 @@
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local scripts
+*.log
+start-server.bat
+push-to-github.bat
