@@ -554,10 +554,11 @@ p, li, blockquote, .text-pretty {
    ========================================================================== */
 
 .about-grid {
-  display: grid;
-  grid-template-columns: 1.2fr 0.8fr;
-  gap: var(--space-xxl);
-  align-items: start;
+  display: block;
+}
+
+.about-narrative {
+  max-width: 820px;
 }
 
 .about-lead {
@@ -797,8 +798,57 @@ p, li, blockquote, .text-pretty {
 }
 
 /* ==========================================================================
-   TECHNICAL SKILLS SECTION
+   TECHNICAL SKILLS SECTION & COMPACT ICON CARDS
    ========================================================================== */
+
+.skills-compact-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(96px, 1fr));
+  gap: 12px;
+}
+
+.skill-compact-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  background-color: var(--color-surface);
+  border: 1px solid var(--color-hairline);
+  box-shadow: var(--shadow-border);
+  border-radius: var(--radius-md);
+  padding: 18px 8px 14px 8px;
+  min-height: 96px;
+  text-align: center;
+  user-select: none;
+  transition: border-color 150ms ease-out, background-color 150ms ease-out, transform 150ms ease-out, box-shadow 150ms ease-out;
+}
+
+.skill-compact-card:hover {
+  border-color: var(--color-hairline-strong);
+  background-color: var(--color-surface-elevated);
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-border-hover);
+}
+
+.skill-compact-card:active {
+  transform: scale(0.96);
+}
+
+.skill-compact-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+}
+
+.skill-compact-label {
+  font-size: 12.5px;
+  font-weight: 500;
+  color: var(--color-ink);
+  line-height: 1.25;
+}
 
 .skills-grid {
   display: grid;
